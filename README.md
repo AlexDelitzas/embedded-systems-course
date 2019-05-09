@@ -8,6 +8,6 @@ Aristotle University of Thessaloniki\
 
 ## Current content
 
-* Assignment 1: Two versions of a simple real-time timer
+* Assignment 1: Two versions of a simple real-time timer that is used for low-consumption periodic sampling.
 
 
